@@ -1,0 +1,4 @@
+*.bin
+*.log
+trained_english_model/
+trained_hindi_model/

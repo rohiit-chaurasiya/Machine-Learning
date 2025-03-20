@@ -1,0 +1,11 @@
+Unique ID,Post,Labels Set,Total Score,Hate Label,Subjective Hate Label
+0,आपका दिन अच्छा हो!,unknown,0.625,No Hate,0.625
+1,आप बहुत अच्छे इंसान हैं।,unknown,0.0,No Hate,0.0
+2,आज मौसम बहुत अच्छा है।,unknown,0.625,No Hate,0.625
+3,मैं बाजार जा रहा हूँ।,unknown,0.0,No Hate,0.0
+4,मुझे यह फिल्म बिल्कुल पसंद नहीं आई।,unknown,0.0,No Hate,0.0
+5,यह देरी बहुत परेशान करने वाली है।,unknown,0.0,weakly hateful,0.0
+6,"मैं तुमसे नफरत करता हूँ, तुम गंदे लोग हो!",unknown,0.0,weakly hateful,0.0
+7,"यहाँ से निकल जाओ, तुम सब कचरा हो!",unknown,0.0,weakly hateful,0.0
+8,"तुम बेवकूफ हो, कुछ समझ नहीं आता क्या?",unknown,-0.5,weakly hateful,-0.5
+9,"ये लोग बेकार हैं, शर्मनाक!",unknown,-1.5,weakly hateful,-1.5

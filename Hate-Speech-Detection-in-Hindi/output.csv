@@ -1,0 +1,4 @@
+Unique ID,Post,Labels Set,Total Score,Hate Label,Subjective Hate Label
+1,This is a good post,non-hostile,0,No Hate
+2,I hate you so much you evil person,hostile,0,No Hate
+3,मैं तुमसे लड़ना चाहता हूँ,hostile,-0.25,No Hate
